@@ -5,7 +5,7 @@
 <body>
 <h1>	Hola Mundo cruel y despiadado :-) </h1>
 
-<h2> Esta es una pagina de prueba 2</h2>
+<h2> Esta es una pagina de prueba. Github</h2>
 
 <a href="#", class="btn">Ver aca</a>
 
